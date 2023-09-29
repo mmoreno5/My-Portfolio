@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../UTA-VIRT-FSF-PT-09-2023-U-LOLC-1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My-Portfolio"
+	}
+}
